@@ -1,4 +1,4 @@
-# Deep Focus - AI-Powered Productivity Extension
+# Deep Focus AI-Powered Productivity Extension
 
 ## Overview
 Deep Focus is a browser extension designed to enhance productivity by intelligently blocking distracting websites. It uses AI to detect procrastination patterns and helps users stay focused by restricting access to time-wasting sites when they are most susceptible to distractions.
