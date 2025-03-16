@@ -18,3 +18,7 @@ toggleButton.addEventListener('click', () => {
     chrome.runtime.sendMessage({ action: "disableFocusMode" });
   }
 });
+
+document.getElementById('start-break').addEventListener('click', () => {
+    chrome.runtime.sendMessage({ action: "startBreak" });
+  });
